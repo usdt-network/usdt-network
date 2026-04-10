@@ -1,4 +1,6 @@
-# 🚀 USDT Network Official Repository
+![BSC](https://img.shields.io/badge/Network-BSC-yellow)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Security](https://img.shields.io/badge/Security-Verified-blue)# 🚀 USDT Network Official Repository
 
 Welcome to the official repository of **USDT Network**.
 
