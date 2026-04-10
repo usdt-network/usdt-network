@@ -18,7 +18,7 @@ This repository contains official project documentation, branding assets, and se
 - Token Type: BEP-20  
 - Category: Infrastructure  
 - Status: Active Project  
-- Purpose: Blockchain infrastructure and ecosystem utility  
+- Purpose: Blockchain infrastructure and ecosystem utility token  
 
 ---
 
@@ -35,16 +35,25 @@ Official project whitepaper is included in this repository.
 
 ---
 
+## 🔗 Contract Information
+
+- Network: BNB Smart Chain (BSC)  
+- Token Standard: BEP-20  
+- Contract Address: https://bscscan.com/address/0x43229B362c356A9c1BBC3FccD743aB2E4B437DC2  
+- Status: Verified on BscScan  
+
+---
+
 ## 🔐 Security & Verification
 
 This project follows standard blockchain security practices:
 
 - Smart Contract Verified on BscScan  
-- Contract Address: https://bscscan.com/address/0x43229B362c356A9c1BBC3FccD743aB2E4B437DC2  
 - External Security Checks:
   - Token Sniffer
   - GoPlus Security
   - Honeypot Detection Tools  
+- Liquidity Lock (if applicable)
 
 ---
 
