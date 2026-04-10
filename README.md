@@ -1,42 +1,50 @@
 ![BSC](https://img.shields.io/badge/Network-BSC-yellow)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Category](https://img.shields.io/badge/Category-Infrastructure-blue)
 ![Security](https://img.shields.io/badge/Security-Verified-blue)
 
-# 🚀 Protocol USDT Network Official Repository
+# 🚀 USDT Network Official Repository
 
-Welcome to the official repository of **Protocol USDT Network**.
+Welcome to the official repository of **USDT Network**.
 
 This repository contains official project documentation, branding assets, and security references for verification purposes.
 
 ---
 
 ## 📌 Project Overview
-- Token Name:  USDT Network  
+
+- Token Name: USDT Network  
 - Network: BNB Smart Chain (BSC)  
 - Token Type: BEP-20  
+- Category: Infrastructure  
 - Status: Active Project  
-- Purpose: Utility / Ecosystem Token  
+- Purpose: Blockchain infrastructure and ecosystem utility  
 
 ---
 
 ## 🖼️ Official Assets
-- Logo: Available in repository root
-- Whitepaper: Available in repository files
+
+- Logo: Available in repository root  
+- Whitepaper: Available in repository files  
 
 ---
 
 ## 📄 Whitepaper
+
 Official project whitepaper is included in this repository.
 
 ---
 
 ## 🔐 Security & Verification
-This project follows standard security practices:
+
+This project follows standard blockchain security practices:
 
 - Smart Contract Verified on BscScan  
 - Contract Address: https://bscscan.com/address/0x43229B362c356A9c1BBC3FccD743aB2E4B437DC2  
-- Liquidity Lock (if applicable)  
-- External Security Checks (Token Sniffer / GoPlus / Honeypot checks)
+- External Security Checks:
+  - Token Sniffer
+  - GoPlus Security
+  - Honeypot Detection Tools  
 
 ---
 
@@ -46,16 +54,16 @@ This project follows standard security practices:
 - 💬 Telegram: https://t.me/Protocol_USDT  
 - 🐦 Twitter/X: https://x.com/Protocol_USDT  
 - 📧 Email: info@protocolusdtsignaturen.one  
-- 🥞 PancakeSwap: https://pancakeswap.finance/
+- 🥞 PancakeSwap: https://pancakeswap.finance/swap?outputCurrency=0x43229B362c356A9c1BBC3FccD743aB2E4B437DC2  
 
 ---
 
 ## 📞 Contact
 
-For support or inquiries, please use official channels listed above.
+For official support or inquiries, please use the channels listed above.
 
 ---
 
 ## ⚠️ Disclaimer
 
-This repository is for informational purposes only. Always DYOR (Do Your Own Research) before interacting with any token.
+This repository is for informational purposes only. Always DYOR (Do Your Own Research) before interacting with any blockchain asset.
