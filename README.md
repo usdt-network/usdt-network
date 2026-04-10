@@ -11,7 +11,7 @@ This repository contains official project documentation, branding assets, and se
 ---
 
 ## 📌 Project Overview
-- Token Name: Protocol USDT Network  
+- Token Name:  USDT Network  
 - Network: BNB Smart Chain (BSC)  
 - Token Type: BEP-20  
 - Status: Active Project  
