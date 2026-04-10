@@ -9,7 +9,7 @@
 
 Welcome to the official repository of **USDT Network**.
 
-This repository contains official project documentation, branding assets, security proof, and on-chain analytics for transparency.
+This repository contains official project documentation, branding assets, security proof, analytics, exchanges, and contact information for transparency.
 
 ---
 
@@ -44,38 +44,37 @@ This repository contains official project documentation, branding assets, securi
 
 - Smart Contract is publicly verified on BscScan  
 - Liquidity is locked via third-party locker service  
-- Transparency is ensured through on-chain analytics
+- Transparency is ensured through on-chain analytics  
 
 📜 Liquidity Lock Certificate:  
 https://www.dx.app/certificates/locker/v2-liquidity?address=0x48953C714a33320Dc31F7e8944FbfEC5BF1BC086&chain=56  
 
 ---
 
-## 📊 Analytics & Tracking
+## 📊 Analytics
 
+All market tracking and analytics are available in the `analytics/` folder:
 - CoinMarketCap DEX  
 - GeckoTerminal  
 - DEXTools  
 - Birdeye  
 - Bubblemaps  
 
-(All full links available in `analytics/` folder)
-
 ---
 
-## 🔗 Official Links
+## 🔄 Exchanges
 
-- 🌐 Website: http://www.protocolusdtsignaturen.one/  
-- 💬 Telegram: https://t.me/Protocol_USDT  
-- 🐦 Twitter/X: https://x.com/Protocol_USDT  
-- 📧 Email: info@protocolusdtsignaturen.one  
-- 🥞 PancakeSwap: https://pancakeswap.finance/swap?outputCurrency=0x43229B362c356A9c1BBC3FccD743aB2E4B437DC2  
+- PancakeSwap:  
+https://pancakeswap.finance/swap?chain=bsc&inputCurrency=0x43229B362c356A9c1BBC3FccD743aB2E4B437DC2&outputCurrency=BNB  
 
 ---
 
 ## 📞 Contact
 
-For official support or inquiries, use the channels above.
+- 🌐 Website: https://www.protocolusdtsignaturen.one/  
+- 💬 Telegram: https://t.me/Protocol_USDT  
+- 🐦 Twitter/X: https://x.com/Protocol_USDT  
+- 📧 Email: info@protocolusdtsignaturen.one  
 
 ---
 
