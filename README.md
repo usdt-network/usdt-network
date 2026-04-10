@@ -5,11 +5,11 @@
 
 # 🚀 USDT Network Official Repository
 
-## ✅ Official Verified Project Repository for BscScan Token Listing
+## ✅ Official Verified Project Repository for BscScan Listing
 
 Welcome to the official repository of **USDT Network**.
 
-This repository contains official project documentation, branding assets, and security references for verification purposes.
+This repository contains official project documentation, branding assets, security proof, and on-chain analytics for transparency.
 
 ---
 
@@ -31,12 +31,6 @@ This repository contains official project documentation, branding assets, and se
 
 ---
 
-## 📄 Whitepaper
-
-Official project whitepaper is included in this repository.
-
----
-
 ## 🔗 Contract Information
 
 - Network: BNB Smart Chain (BSC)  
@@ -48,14 +42,24 @@ Official project whitepaper is included in this repository.
 
 ## 🔐 Security & Verification
 
-This project follows standard blockchain security practices:
+- Smart Contract is publicly verified on BscScan  
+- Liquidity is locked via third-party locker service  
+- Transparency is ensured through on-chain analytics
 
-- Smart Contract Verified on BscScan  
-- External Security Checks:
-  - Token Sniffer
-  - GoPlus Security
-  - Honeypot Detection Tools  
-- Liquidity Lock (if applicable)
+📜 Liquidity Lock Certificate:  
+https://www.dx.app/certificates/locker/v2-liquidity?address=0x48953C714a33320Dc31F7e8944FbfEC5BF1BC086&chain=56  
+
+---
+
+## 📊 Analytics & Tracking
+
+- CoinMarketCap DEX  
+- GeckoTerminal  
+- DEXTools  
+- Birdeye  
+- Bubblemaps  
+
+(All full links available in `analytics/` folder)
 
 ---
 
