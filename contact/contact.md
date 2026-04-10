@@ -1,18 +1,13 @@
-# 📞 Official Contact Information
+# 📞 Contact USDT Network
 
 ## 🌐 Website
-- https://yourwebsite.com
+https://www.protocolusdtsignaturen.one/
 
 ## 💬 Telegram
-- https://t.me/yourtelegram
+https://t.me/Protocol_USDT
 
 ## 🐦 Twitter / X
-- https://twitter.com/yourtoken
+https://x.com/Protocol_USDT
 
 ## 📧 Email
-- support@yourdomain.com
-
----
-
-## ⚠️ Official Channels Only
-Please only trust information from official listed sources. Do not engage with fake accounts or impersonators.
+info@protocolusdtsignaturen.one
