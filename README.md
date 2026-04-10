@@ -1,6 +1,8 @@
 ![BSC](https://img.shields.io/badge/Network-BSC-yellow)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Security](https://img.shields.io/badge/Security-Verified-blue)# 🚀 USDT Network Official Repository
+![Security](https://img.shields.io/badge/Security-Verified-blue)
+
+# 🚀 USDT Network Official Repository
 
 Welcome to the official repository of **USDT Network**.
 
@@ -11,7 +13,8 @@ This repository contains official project documentation, branding assets, and se
 ## 📌 Project Overview
 - Token Name: USDT Network  
 - Network: BNB Smart Chain (BSC)  
-- Type: BEP-20 Token  
+- Token Type: BEP-20  
+- Status: Active Project  
 - Purpose: Utility / Ecosystem Token  
 
 ---
