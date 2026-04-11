@@ -5,7 +5,7 @@
 
 # 🚀 USDT Network Official Repository
 
-## ✅ Official Verified Project Repository for BscScan Listing
+## ✅ Official Verified Project Repository for BscScan Listing and CoinGecko Terminal
 
 Welcome to the official repository of **USDT Network**.
 
